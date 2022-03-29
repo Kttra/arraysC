@@ -5,3 +5,20 @@ This program also shows how to pass the arrays through functions, how to print o
 Note that this program will not show how to print 3-D arrays or how to pass them to a function as looking at the 1-D and 2-D examples should give a good idea of how to do so.
 
 Note that you may want to consider using a vector instead of an array (if you are coding in C++) as they function very similarly. Vectors are implemented as dynamic arrays with a list interface while arrays can be implemented both statically or dynamically. In addition, vectors are much easier to use.
+
+```
+The starting array: 1 2 3 7 
+The array after passing it through a function: 7 2 3 7 
+
+The 2D Board:
+# # # # #
+# # # # #
+# # # # #
+# # # # #
+
+The 2D Board after passing through a function:
+# # # # #
+# # h # #
+# # # # #
+# # # # #
+```
