@@ -1,4 +1,4 @@
-# Arrays
+# 1-D/2-D/3-D Arrays
 Making arrays of different dimensions in C++ and C. A program that shows how to create 1-D, 2-D, and 3-D arrays in C++. It's really important to make sure you understand how to free memory after the use of your array is over (especially in long running programs). Memory is a finite resource within your running program and eventually you may run out of that memory causing the program to crash.
 
 This program also shows how to pass the arrays through functions, how to print out the arrays, and how to delete them after you are done.
