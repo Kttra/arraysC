@@ -14,7 +14,8 @@
     can be implemented as both statically or dynamically.
 
     Most of this code can be used in C++ besides the 3-D
-    array freeing part.
+    array freeing part. You would just need to replace "#include <iostream>"
+    with "#include <stdio.h>" and "#include <stdlib.h>"
 */
 
 #include <iostream>
