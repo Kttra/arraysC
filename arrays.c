@@ -29,7 +29,7 @@ int main(){
     //Make a 1-D Array of Size 4
     int* primes = getArray(4);
 
-    //primes = {1,2,3,7};
+    //int primes[] = {1,2,3,7}; //declare a static array like this
     primes[0] = 1;
     primes[1] = 2;
     primes[2] = 3;
